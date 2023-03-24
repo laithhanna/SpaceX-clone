@@ -280,6 +280,10 @@ footer ul li a:hover {
   z-index: 3;
 }
 
+.stop-scrolling {
+  overflow: hidden;
+}
+
 /* Animations */
 @keyframes fadeInUp {
   0% {
